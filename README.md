@@ -1,5 +1,7 @@
 # Gamma Distribution
 
+The first argument is a random variable, the second one is a shape[alpha], and the third one is a rate[beta].
+
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/gamma_distribution`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
