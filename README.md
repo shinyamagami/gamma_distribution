@@ -22,7 +22,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+For the pdf of X,
+f(x;a,b)= Gamma_distribution.gamma_pdf x,a,b
+
+For the cdf of X,
+f(x;a,b)= Gamma_distribution.gamma_cdf x,a,b
+
+
 
 ## Development
 
