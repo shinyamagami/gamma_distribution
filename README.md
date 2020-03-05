@@ -26,7 +26,7 @@ For the pdf of X,
 f(x;a,b)= Gamma_distribution.gamma_pdf x,a,b
 
 For the cdf of X,
-f(x;a,b)= Gamma_distribution.gamma_cdf x,a,b
+F(x;a,b)= Gamma_distribution.gamma_cdf x,a,b
 
 
 
